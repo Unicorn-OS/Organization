@@ -1,5 +1,6 @@
 # Organization
-Windows: Fences - Find or make an Alternative to thsi! https://www.stardock.com/products/fences/
+## Fences
+Windows: Fences - Find or make an Alternative to this! https://www.stardock.com/products/fences/
 
 Alt:
 - https://alternativeto.net/software/fences/
